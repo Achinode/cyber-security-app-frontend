@@ -68,8 +68,8 @@ const HomePage: React.FC = () => {
                     </Col>
                     <Col span={6}>
                         <h4>Contact</h4>
-                        <p>Email: contact@company.com</p>
-                        <p>Phone: +123 456 7890</p>
+                        <p>Email: contact@providelk.com</p>
+                        <p>Phone: +94 771489667</p>
                     </Col>
                     <Col span={6}>
                         <h4>Follow Us</h4>
