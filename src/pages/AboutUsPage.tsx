@@ -33,13 +33,18 @@ const AboutUsPage: React.FC = () => {
                             <Paragraph
                                 style={{ fontSize: "18px", lineHeight: 1.8 }}
                             >
-                                We are a passionate team dedicated to making a
-                                difference in the world through innovative
-                                solutions. Our mission is to empower businesses
-                                and individuals with cutting-edge technology to
-                                meet their needs and achieve their goals. At the
-                                heart of our company, we value collaboration,
-                                creativity, and commitment to excellence.
+                                At Provide.lk, we are committed to fostering a 
+                                culture of cybersecurity awareness among our 
+                                employees. Our mission is to equip everyone 
+                                with the knowledge and tools they need to 
+                                recognize and combat potential security threats.
+                                Through this platform, we provide engaging and interactive content, 
+                                including quizzes and resources, to help employees 
+                                stay informed about the latest security best practices. 
+                                From identifying phishing attacks to ensuring password security, 
+                                our goal is to create a secure working environment for everyone. 
+                                Together, we can protect our organization and its valuable 
+                                data from cyber threats.
                             </Paragraph>
 
                             <Title level={3} style={{ marginTop: "40px" }}>
@@ -48,12 +53,16 @@ const AboutUsPage: React.FC = () => {
                             <Paragraph
                                 style={{ fontSize: "18px", lineHeight: 1.8 }}
                             >
-                                We believe in building a better future where
-                                technology works for people, improving lives,
-                                and fostering meaningful connections. Our vision
-                                is to continually evolve, bringing together the
-                                best talents and technologies to create
-                                impactful solutions for everyone.
+                                Our vision is to cultivate a workforce that is 
+                                well-versed in cybersecurity, making security 
+                                awareness a natural part of our everyday operations.
+                                We aim to empower every employee with the knowledge 
+                                and skills to identify, prevent, and respond to 
+                                potential cyber threats, creating a resilient and 
+                                secure workplace. By fostering continuous learning 
+                                and proactive engagement with security practices, 
+                                we aspire to build a company culture where everyone 
+                                plays a key role in safeguarding our digital environment.
                             </Paragraph>
                         </Col>
                     </Row>
