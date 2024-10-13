@@ -8,8 +8,8 @@ const { Footer, Content } = Layout;
 
 const sliderImages = [
     { id: 1, src: "https://i.ibb.co/B39yB5x/Privacy-policy-rafiki.png/1200x400?text=Slide+1" },
-    { id: 2, src: "https://via.placeholder.com/1200x400?text=Slide+2" },
-    { id: 3, src: "https://via.placeholder.com/1200x400?text=Slide+3" },
+    { id: 2, src: "https://i.ibb.co/LYzz0fZ/Hacker-pana.png/1200x400?text=Slide+2" },
+    { id: 3, src: "https://https://i.ibb.co/F4NX4HK/Fingerprint-cuate.png/1200x400?text=Slide+3" },
 ];
 
 const HomePage: React.FC = () => {
@@ -23,16 +23,15 @@ const HomePage: React.FC = () => {
                 <Row gutter={16} justify="center" align="middle">
                     <Col span={12}>
                         <div>
-                            <h1>Welcome to Our Landing Page</h1>
-                            <p>
-                                Our product helps you solve problems in the best
-                                way possible. Discover more below.
-                            </p>
+                            <h1>Welcome to Provide.LK Security Training</h1>
+                            <h3>
+                                This web application helps you to get awareness about cyber threats and prevention methods.
+                            </h3>
                         </div>
                     </Col>
                     <Col span={12}>
                         <Image
-                            src="https://via.placeholder.com/500x500?text=Landing+Image"
+                            src="https://i.ibb.co/9rsNQMG/322719553-448360310675959-4791665221431542661-n.jpg/500x500?text=Landing+Image"
                             alt="Landing Image"
                             preview={false}
                             style={{ borderRadius: "8px" }}
