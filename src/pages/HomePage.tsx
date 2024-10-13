@@ -23,7 +23,8 @@ const HomePage: React.FC = () => {
                 <Row gutter={16} justify="center" align="middle">
                     <Col span={12}>
                         <div>
-                            <h1>Welcome to Provide.LK Security Training</h1>
+                            <h1 style={{ fontSize: "3.5rem", fontWeight: "bold" }}>Cyber-Guardian of Provide.LK</h1>
+                            <h2>Welcome to Provide.LK Security Training</h2>
                             <h3>
                                 This web application helps you to get awareness about cyber threats and prevention methods.
                             </h3>
