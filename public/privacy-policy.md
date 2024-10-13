@@ -1,4 +1,3 @@
-# Web Application Privacy Policy
 
 # Acceptable Use Policy (AUP)
 
