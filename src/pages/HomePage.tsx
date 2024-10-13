@@ -7,7 +7,7 @@ import NavBar from "../components/NavBar";
 const { Footer, Content } = Layout;
 
 const sliderImages = [
-    { id: 1, src: "https://storyset.com/online/1200x400?text=Slide+1" },
+    { id: 1, src: "https://ibb.co/pwSfdB8/1200x400?text=Slide+1" },
     { id: 2, src: "https://via.placeholder.com/1200x400?text=Slide+2" },
     { id: 3, src: "https://via.placeholder.com/1200x400?text=Slide+3" },
 ];
