@@ -52,7 +52,7 @@ const ContactUsPage: React.FC = () => {
                                     }}
                                 />
                                 <Title level={4}>Our Address</Title>
-                                <Text>123 Tech Street, City, Country</Text>
+                                <Text>90A/6/1,Vihara lane,Kaduwela,Sri Lanka</Text>
                             </Space>
 
                             <Space direction="vertical">
@@ -63,7 +63,7 @@ const ContactUsPage: React.FC = () => {
                                     }}
                                 />
                                 <Title level={4}>Call Us</Title>
-                                <Text>+1 123 456 7890</Text>
+                                <Text>+94 771489667</Text>
                             </Space>
 
                             <Space direction="vertical">
@@ -74,7 +74,7 @@ const ContactUsPage: React.FC = () => {
                                     }}
                                 />
                                 <Title level={4}>Email Us</Title>
-                                <Text>info@company.com</Text>
+                                <Text>contact@providelk.com</Text>
                             </Space>
                         </Space>
                     </Col>
