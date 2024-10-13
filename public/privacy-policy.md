@@ -1,4 +1,4 @@
-# Privacy Policy
+# Web Application Privacy Policy
 
 ## Introduction
 
@@ -15,4 +15,4 @@ We may collect personal information such as your name, email, and usage data whe
 
 ## Your Rights
 
-You have the right to access, update, and delete your personal information. If you have any questions, please contact us at privacy@example.com.
+You have the right to access, update, and delete your personal information. If you have any questions, please contact us at contact@provide.lk.
