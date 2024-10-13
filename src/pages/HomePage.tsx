@@ -77,7 +77,7 @@ const HomePage: React.FC = () => {
                     </Col>
                 </Row>
                 <Row justify="center" style={{ marginTop: "20px" }}>
-                    <p>© 2024 Your Company. All rights reserved.</p>
+                    <p>© 2024 Cyber-Guardian. All rights reserved.</p>
                 </Row>
             </StyledFooter>
         </Layout>
