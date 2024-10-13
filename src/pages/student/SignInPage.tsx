@@ -60,8 +60,8 @@ const SignInPage: React.FC = () => {
                                 {
                                     required: true,
                                     message:
-                                        "Please input your password! (Minimum 6 characters)",
-                                    min: 6,
+                                        "Please input your password! (Minimum 8 characters)",
+                                    min: 8,
                                 },
                             ]}
                         >

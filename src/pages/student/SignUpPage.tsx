@@ -113,8 +113,8 @@ const SignUpPage: React.FC = () => {
                                 {
                                     required: true,
                                     message:
-                                        "Please confirm your password with minimum 6 characters",
-                                    min: 6,
+                                        "Please confirm your password with minimum 8 characters",
+                                    min: 8,
                                 },
                             ]}
                         >
