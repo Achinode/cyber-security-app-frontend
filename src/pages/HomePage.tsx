@@ -7,9 +7,9 @@ import NavBar from "../components/NavBar";
 const { Footer, Content } = Layout;
 
 const sliderImages = [
-    { id: 1, src: "https://i.ibb.co/B39yB5x/Privacy-policy-rafiki.png/1200x400?text=Slide+1" },
-    { id: 2, src: "https://i.ibb.co/LYzz0fZ/Hacker-pana.png/1200x400?text=Slide+2" },
-    { id: 3, src: "https://https://i.ibb.co/F4NX4HK/Fingerprint-cuate.png/1200x400?text=Slide+3" },
+    { id: 1, src: "https://i.ibb.co/wcjjvKM/cyber-security-shield-background-neon-digital-neuron-network-background-753134-807.jpg/1200x400?text=Slide+1" },
+    { id: 2, src: "https://i.ibb.co/JB27ncC/3824032.jpg/1200x400?text=Slide+2" },
+    { id: 3, src: "https://i.ibb.co/XkGDzsP/3834019.jpg/1200x400?text=Slide+3" },
 ];
 
 const HomePage: React.FC = () => {
